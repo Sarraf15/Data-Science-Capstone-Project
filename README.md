@@ -1,6 +1,6 @@
 # Data-Science-Capstone-Project
-#Data Science Capstone Project
-#Description:
+# Data Science Capstone Project
+# Description:
 This repository holds the final capstone project for the Data Science with Python Career Program by Skill Academy. It utilizes a Car Details dataset to perform Exploratory Data Analysis (EDA), train and evaluate a model to predict car prices, and deploy a web application using Streamlit for user-driven predictions.
 
 Project Goals:
